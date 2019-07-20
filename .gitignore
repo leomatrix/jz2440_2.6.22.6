@@ -19,6 +19,7 @@ f76d089 on 1 Nov 2016
     
 # Prerequisites
 *.d
+.gitignore
 
 # Object files
 *.o
